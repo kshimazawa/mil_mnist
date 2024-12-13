@@ -1,4 +1,4 @@
-# MIL-project
+# MIL for MNIST
 
 This repository contains a Jupyter Notebook demonstrating the implementation of Multiple Instance Learning (MIL) for a regression.
 Each bag dataset consists of 100 MNIST data. (fraction x of '0' and (1-x) of '7')
